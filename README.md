@@ -8,9 +8,8 @@
 
 I am a Computer Science student in University of Tehran and I love to work on Data Science related projects. I have already uploaded some of my personal and course related projects here; I hope it helps you.  ૮꒰ ˶• ༝ •˶꒱ა ♡
 
-<br/><br/>
 
-# <img align="center" src="About Me_.svg" height="80" width="80" /> 
+# <img align="center" src="About Me_-2.svg" height="80" width="80" /> 
 
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="200" width="200" /> 
