@@ -11,7 +11,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 <br/><br/>
 
 
-<img align="left" src="ezgif.com-gif-maker.gif" height="500" width="500" />
+<img align="left" src="ezgif.com-gif-maker.gif" height="400" width="400" />
 
 <p align="right"
 
@@ -24,7 +24,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 * ❤️ I love ...
 * ⚡ Fun fact: ...
    
-   />
+   !p/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nilix-ba&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
