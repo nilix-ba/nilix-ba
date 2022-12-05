@@ -10,7 +10,13 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 <br/><br/>
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="200" width="200" /> 
 
