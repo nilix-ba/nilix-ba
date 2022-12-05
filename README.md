@@ -11,7 +11,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 <br/><br/>
 
 
-<img align="left" src="ezgif.com-gif-maker.gif" height="100" width="100" />
+<img align="left" src="ezgif.com-gif-maker.gif" height="600" width="600" />
 
 <p align="right"
 
