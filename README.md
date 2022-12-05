@@ -17,7 +17,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nilix-ba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nilix-ba&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilix-ba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilix-ba&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
