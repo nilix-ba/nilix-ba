@@ -12,7 +12,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 
 
-<img align="left" src="ezgif.com-gif-maker.gif" height="300" width="300" /> 
+<img align="right" src="ezgif.com-gif-maker.gif" height="300" width="300" /> 
 
 * 🔭 I’m currently working on ...
 * 🌱 I’m currently learning ...
