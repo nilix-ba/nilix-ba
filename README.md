@@ -4,7 +4,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 
 
-<img align="center" src="/gif-meme-pic/ezgif.com-gif-maker.gif" height="100" />
+<img align="center" src="nilix-ba/gif-meme-pic/ezgif.com-gif-maker.gif" height="100" />
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61220640/205637109-d5f58d7c-f06d-4106-bc02-eda4b4e84362.gif)
 
