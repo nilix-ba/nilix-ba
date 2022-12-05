@@ -10,23 +10,9 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 <br/><br/>
 
-<div>
-    <p style="float: left;"><img align="left" src="ezgif.com-gif-maker.gif" height="300" width="300" /></p>
-    <ul>
-      <li> * 🔭 I’m currently working on ... </li>
-      <li> * 🌱 I’m currently learning ... </li>
-      * 🤝 I’m looking to collaborate on ...
-      * 🤔 I’m looking for help with ...
-      * 💬 Ask me about ...
-      * 📫 How to reach me: ...
-      * ❤️ I love ...
-      * ⚡ Fun fact: ...
-    </ul>
-</div>
 
-<!-- <img align="left" src="ezgif.com-gif-maker.gif" height="300" width="300" /> -->
 
-<!-- <ul align="right" >
+<img align="left" src="ezgif.com-gif-maker.gif" height="300" width="300" /> 
 
 * 🔭 I’m currently working on ...
 * 🌱 I’m currently learning ...
@@ -37,7 +23,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 * ❤️ I love ...
 * ⚡ Fun fact: ...
    
-   </ul> -->
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nilix-ba&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
