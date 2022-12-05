@@ -9,7 +9,7 @@
 I am a Computer Science student in University of Tehran and I love to work on Data Science related projects. I have already uploaded some of my personal and course related projects here; I hope it helps you.  ૮꒰ ˶• ༝ •˶꒱ა ♡
 
 
-# <img align="center" src="About Me_-2.svg" height="80" width="80" /> 
+### About Me:
 
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="200" width="200" /> 
