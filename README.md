@@ -1,4 +1,6 @@
-<p style="font-family:verdana">This is a paragraph.</p>
+<mark >Highlighted text</mark>
+<mark style="background-color: #FFFF00">Highlighted text</mark>
+<div style="background-color: #FFFF00">Highlighted text</div>
 
 Hello everyone! This is Niloufar.  ʕ •ᴥ•ʔ
 
