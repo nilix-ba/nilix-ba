@@ -1,8 +1,6 @@
-<mark >Highlighted text</mark>
-<mark style="background-color: #FFFF00">Highlighted text</mark>
-<div style="background-color: #FFFF00">Highlighted text</div>
 
-Hello everyone! This is Niloufar.  ʕ •ᴥ•ʔ
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=10000&pause=1000&color=F784ED&width=435&lines=Hello+everyone!+This+is+Niloufar.)](https://git.io/typing-svg)  ʕ •ᴥ•ʔ
 
 I am a Computer Science student in University of Tehran and I love to work on Data Science related projects. I have already uploaded some of my personal and course related projects here; I hope it helps you.  ૮꒰ ˶• ༝ •˶꒱ა ♡
 
