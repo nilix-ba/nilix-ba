@@ -27,17 +27,13 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<div style="display: flex; flex-direction: row;">
 
-![](https://github-readme-stats.vercel.app/api?username=nilix-ba&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nilix-ba&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilix-ba&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nilix-ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nilix-ba&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilix-ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
-
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
+</div>
 
 
 <!-- - 👀 I’m interested in ...
