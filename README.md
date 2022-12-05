@@ -10,7 +10,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 <br/><br/>
 
-# <img align="center" src="About Me_.svg" height="50" width="50" /> 
+# <img align="center" src="About Me_.svg" height="80" width="80" /> 
 
 
 <img align="right" src="ezgif.com-gif-maker.gif" height="200" width="200" /> 
