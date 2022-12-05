@@ -1,7 +1,6 @@
 Hello everyone! This is Niloufar.  ʕ •ᴥ•ʔ
 
-I am a Computer Science student in University of Tehran and I love to work on Data Science related projects.
-
+I am a Computer Science student in University of Tehran and I love to work on Data Science related projects. I have already uploaded some of my personal and course related projects here; I hope it helps you. ૮꒰ ˶• ༝ •˶꒱ა ♡
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
