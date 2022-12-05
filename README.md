@@ -19,7 +19,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 * 💬 Ask me about anything!
 * 📫 How to reach me: niloufarbabaahmadi@gmail.com
 * ❤️ I love to eat desserts while I am coding 
-* ⚡ Fun fact: I love chocolate <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Chocolate%20Bar.png" alt="Chocolate Bar" width="25" height="25" />
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Chocolate%20Bar.png" alt="Chocolate Bar" width="25" height="25" /> Fun fact: I love chocolate 
    
  
 
