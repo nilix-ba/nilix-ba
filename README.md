@@ -2,7 +2,7 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=10000&pause=1000&color=F784ED&width=435&lines=Hello+everyone!+This+is+Niloufar.)](https://git.io/typing-svg) ʕ •ᴥ•ʔ -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=nilix-ba)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=10000&pause=1000&color=F758D9&width=435&lines=Hello+everyone!+This+is+Niloufar.++%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94)](https://git.io/typing-svg)
 
