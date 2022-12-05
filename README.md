@@ -10,7 +10,7 @@ I am a Computer Science student in University of Tehran and I love to work on Da
 
 <br/><br/>
 
-<img align="left" src="About Me_.svg" height="200" width="200" /> 
+<img align="center" src="About Me_.svg" height="100" width="100" /> 
 
 <br/><br/>
 
