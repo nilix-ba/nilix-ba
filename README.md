@@ -1,4 +1,4 @@
-# Hi, I’m Niloufar 👋🌿
+# Hi, I’m Niloufar!
 
 I’m a Master’s student in **Intelligent Adaptive Systems** at the **University of Hamburg** who enjoys building things where **language + search + ML** collide. If it involves **NLP**, **RAG**, or poking at models until they behave, I’m probably into it.
 
