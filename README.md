@@ -21,6 +21,7 @@ I’m a Master’s student in **Intelligent Adaptive Systems** at the **Universi
 ---
 
 ## 🧪 A few things I’ve done
+- Built a **RAG system** that retrieves from a database to answer user questions about **SDG-related indicators**, as part of a project on **startups aligned with the UN SDG goals**  
 - Built and deployed a **full RAG system** for exploring a tool catalog  
   (web scraping → PostgreSQL → vector DB → LLaMA interface… it was a journey ✨)
 - Researched **WSD in few-/zero-shot settings**, comparing **prompt-tuning vs fine-tuning**
